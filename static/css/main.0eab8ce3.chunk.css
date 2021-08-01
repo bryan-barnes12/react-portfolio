@@ -1,0 +1,2 @@
+:root{--dark:#66635b;--mid:#a59e8c;--light:#d7ceb2;--dark-accent:#363e45;--light-accent:#93a8ac}body{background-color:#a59e8c;background-color:var(--mid);margin:10px}section{background-color:#d7ceb2;background-color:var(--light);margin:10px;padding:20px}img,section{border-radius:10px}img{width:100%;object-fit:contain}.carousel-caption,.carousel-inner{border-radius:10px}.carousel-caption{background-color:rgba(0,0,0,.7);color:#fff;padding:1em}.carousel-item{padding:2.5em;background-color:rgba(0,0,0,.7)}
+/*# sourceMappingURL=main.0eab8ce3.chunk.css.map */
